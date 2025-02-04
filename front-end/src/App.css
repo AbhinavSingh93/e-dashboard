@@ -50,3 +50,14 @@
   border: 1px solid ;
   cursor: pointer;
 }
+
+.nav-right{
+  text-align:right;
+}
+
+.logo {
+  width: 38px; 
+  float: left;
+  border-radius: 50%;
+  margin-left: 20px;
+}
